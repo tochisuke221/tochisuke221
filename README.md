@@ -1,2 +1,25 @@
-<img width="686" alt="スクリーンショット 2023-07-17 18 53 46" src="https://github.com/tochisuke221/tochisuke221/assets/81346474/14a32eb9-f911-471d-a570-e2d3fc877d82">
-<br>
+## 自己紹介
+- 栃川晃佑
+
+
+## 技術スタック
+- フロントエンド
+  - Next.js
+  - React.js
+  - Vue.js
+  - jQuery
+- バックエンド
+  - Ruby on Rails  
+
+- インフラ（ちょっとワカル）
+  - GCP
+  - AWS 
+## 資格
+- RubyGold / Ruby Silver
+- AWS SAA
+- 応用情報
+- LPIC
+- 宅建 / 日商簿記3級
+## 登壇歴
+- TSKaigi2025
+  - https://2025.tskaigi.org/talks/Web_TochiTech
